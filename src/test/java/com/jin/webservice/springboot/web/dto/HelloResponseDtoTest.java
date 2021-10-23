@@ -1,7 +1,10 @@
 package com.jin.webservice.springboot.web.dto;
 
 import org.junit.Test;
+<<<<<<< HEAD
 
+=======
+>>>>>>> c7175b7 (Spring Data Jpa 적용하기)
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class HelloResponseDtoTest {
